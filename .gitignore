@@ -4,3 +4,6 @@
 
 # Sphinx ignores
 docs/build/*
+
+# Dev script(s)
+script.sh
