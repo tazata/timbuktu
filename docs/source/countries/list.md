@@ -73,7 +73,7 @@
 - Seychelles
 - Sierra Leone
 - Somalia
-- South Africa
+- [South Africa](zaf/zaf.md)
 - South Sudan
 - Sudan
 
