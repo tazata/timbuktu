@@ -15,7 +15,7 @@ What is the purpose?
 ``timbuktu`` aims to be a Compendium, Encyclopaedia, Guide, Index, or whatever you would like to call it for Science, Technology, Engineering, and Mathematics (STEM) in Africa.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Countries:
    :hidden:
 
