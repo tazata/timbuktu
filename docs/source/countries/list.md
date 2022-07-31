@@ -1,59 +1,90 @@
 # List of African Countries
 
-### Algeria
-### Angola
-### Benin
-### Botswana
-### Burkina Faso
-### Burundi
-### Cameroon
-### Cape Verde
-### Central African Republic
-### Chad
-### Comoros
-### Democratic Republic of the Congo
-### Djibouti
-### Egypt
-### Equatorial Guinea
-### Eritrea
-### Eswatini
-### Ethiopia
-### Gabon
-### Gambia
-### Ghana
-### Guinea
-### Guinea-Bissau
-### Ivory Coast
-### Kenya
-### Lesotho
-### Liberia
-### Libya
-### Madagascar
-### Malawi
-### Mali
-### Mauritania
-### Mauritius
-### Mayotte
-### Morocco
-### Mozambique
-### Namibia
-### Niger
-### Nigeria
-### Republic of the Congo
-### Réunion
-### Rwanda
-### Saint Helena, Ascension and Tristan da Cunha
-### São Tomé and Príncipe
-### Senegal
-### Seychelles
-### Sierra Leone
-### Somalia
-### [South Africa](zaf/zaf.md)
-### South Sudan
-### Sudan
-### Tanzania
-### Togo
-### Tunisia
-### Uganda
-### Zambia
-### Zimbabwe
+## A
+- Algeria
+- Angola
+
+## B
+- Benin
+- Botswana
+- Burkina Faso
+- Burundi
+
+## C
+- Cameroon
+- Cape Verde
+- Central African Republic
+- Chad
+- Comoros
+
+## D
+- Democratic Republic of the Congo
+- Djibouti
+
+## E
+- Egypt
+- Equatorial Guinea
+- Eritrea
+- Eswatini
+- Ethiopia
+
+## G
+- Gabon
+- Gambia
+- Ghana
+- Guinea
+- Guinea-Bissau
+
+## I
+- Ivory Coast
+
+## K
+- Kenya
+
+## L
+- Lesotho
+- Liberia
+- Libya
+
+## M
+- Madagascar
+- Malawi
+- Mali
+- Mauritania
+- Mauritius
+- Mayotte
+- Morocco
+- Mozambique
+
+## N
+- Namibia
+- Niger
+- Nigeria
+
+## R
+- Republic of the Congo
+- Réunion
+- Rwanda
+
+## S
+- Saint Helena, Ascension and Tristan da Cunha
+- São Tomé and Príncipe
+- Senegal
+- Seychelles
+- Sierra Leone
+- Somalia
+- [South Africa](zaf/zaf.md)
+- South Sudan
+- Sudan
+
+## T
+- Tanzania
+- Togo
+- Tunisia
+
+## U
+- Uganda
+
+## Z
+- Zambia
+- Zimbabwe
