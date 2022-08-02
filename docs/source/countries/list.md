@@ -1,7 +1,7 @@
 # List of African Countries
 
 ## A
-- Algeria
+- [Algeria](dza/dza.md)
 - Angola
 
 ## B
