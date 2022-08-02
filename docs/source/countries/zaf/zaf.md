@@ -11,6 +11,7 @@
 
 ## Data Science
 - [Data Intensive Research Initiative of South Africa (DIRISA)](https://www.dirisa.ac.za/)
+- [Directory of Data Repositories in Africa (DODRIA)](https://researchdatadirectoryonafrica.wordpress.com/)
 - [openAFRICA](https://africaopendata.org/)
 - [Open Data South Africa Toolkit](https://opendataza.gitbook.io/toolkit/)
 - [South Africa Data Portal](https://southafrica.opendataforafrica.org/)
