@@ -20,4 +20,5 @@ What is the purpose?
    :hidden:
 
    countries/list
+   countries/zaf/zaf
 
