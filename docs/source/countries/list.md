@@ -2,13 +2,13 @@
 
 ## A
 - [Algeria](dza/dza.md)
-- Angola
+- [Angola](ago/ago.md)
 
 ## B
-- Benin
-- Botswana
-- Burkina Faso
-- Burundi
+- [Benin](ben/ben.md)
+- [Botswana](bwa/bwa.md)
+- [Burkina Faso](bfa/bfa.md)
+- [Burundi](bdi/bdi.md)
 
 ## C
 - Cameroon
