@@ -11,80 +11,82 @@
 - [Burundi](bdi/bdi.md)
 
 ## C
-- Cameroon
-- Cape Verde
-- Central African Republic
-- Chad
-- Comoros
+- [Cameroon](cmr/cmr.md)
+- [Cape Verde](cpv/cpv.md)
+- [Central African Republic](caf/caf.md)
+- [Chad](tcd/tcd.md)
+- [Comoros](com/com.md)
+- [Congo](cog/cog.md)
+- [Côte d'Ivoire](civ/civ.md)
 
 ## D
-- Democratic Republic of the Congo
-- Djibouti
+- [Democratic Republic of the Congo](cod/cod.md)
+- [Djibouti](dji/dji.md)
 
 ## E
-- Egypt
-- Equatorial Guinea
-- Eritrea
-- Eswatini
-- Ethiopia
+- [Egypt](egy/egy.md)
+- [Equatorial Guinea](gnq/gnq.md)
+- [Eritrea](eri/eri.md)
+- [Eswatini](swz/swz.md)
+- [Ethiopia](eth/eth.md)
 
 ## G
-- Gabon
-- Gambia
-- Ghana
-- Guinea
-- Guinea-Bissau
+- [Gabon]
+- [Gambia]
+- [Ghana]
+- [Guinea]
+- [Guinea-Bissau]
 
 ## I
-- Ivory Coast
+- [Ivory Coast]
 
 ## K
-- Kenya
+- [Kenya]
 
 ## L
-- Lesotho
-- Liberia
-- Libya
+- [Lesotho]
+- [Liberia]
+- [Libya]
 
 ## M
-- Madagascar
-- Malawi
-- Mali
-- Mauritania
-- Mauritius
-- Mayotte
-- Morocco
-- Mozambique
+- [Madagascar]
+- [Malawi]
+- [Mali]
+- [Mauritania]
+- [Mauritius]
+- [Mayotte]
+- [Morocco]
+- [Mozambique]
 
 ## N
-- Namibia
-- Niger
-- Nigeria
+- [Namibia]
+- [Niger]
+- [Nigeria]
 
 ## R
-- Republic of the Congo
-- Réunion
-- Rwanda
+- [Republic of the Congo]
+- [Réunion]
+- [Rwanda]
 
 ## S
-- Saint Helena, Ascension and Tristan da Cunha
-- São Tomé and Príncipe
-- Senegal
-- Seychelles
-- Sierra Leone
-- Somalia
+- [Saint Helena, Ascension and Tristan da Cunha]
+- [São Tomé and Príncipe]
+- [Senegal]
+- [Seychelles]
+- [Sierra Leone]
+- [Somalia]
 - [South Africa](zaf/zaf.md)
-- South Sudan
-- Sudan
+- [South Sudan]
+- [Sudan]
 
 ## T
-- Tanzania
-- Togo
-- Tunisia
+- [Tanzania]
+- [Togo]
+- [Tunisia]
 
 ## U
-- Uganda
+- [Uganda]
 
 ## Z
-- Zambia
-- Zimbabwe
+- [Zambia]
+- [Zimbabwe]
