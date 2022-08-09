@@ -31,62 +31,62 @@
 - [Ethiopia](eth/eth.md)
 
 ## G
-- [Gabon]
-- [Gambia]
-- [Ghana]
-- [Guinea]
-- [Guinea-Bissau]
+- [Gabon]()
+- [Gambia]()
+- [Ghana]()
+- [Guinea]()
+- [Guinea-Bissau]()
 
 ## I
-- [Ivory Coast]
+- [Ivory Coast]()
 
 ## K
-- [Kenya]
+- [Kenya]()
 
 ## L
-- [Lesotho]
-- [Liberia]
-- [Libya]
+- [Lesotho]()
+- [Liberia]()
+- [Libya]()
 
 ## M
-- [Madagascar]
-- [Malawi]
-- [Mali]
-- [Mauritania]
-- [Mauritius]
-- [Mayotte]
-- [Morocco]
-- [Mozambique]
+- [Madagascar]()
+- [Malawi]()
+- [Mali]()
+- [Mauritania]()
+- [Mauritius]()
+- [Mayotte]()
+- [Morocco]()
+- [Mozambique]()
 
 ## N
-- [Namibia]
-- [Niger]
-- [Nigeria]
+- [Namibia]()
+- [Niger]()
+- [Nigeria]()
 
 ## R
-- [Republic of the Congo]
-- [Réunion]
-- [Rwanda]
+- [Republic of the Congo]()
+- [Réunion]()
+- [Rwanda]()
 
 ## S
-- [Saint Helena, Ascension and Tristan da Cunha]
-- [São Tomé and Príncipe]
-- [Senegal]
-- [Seychelles]
-- [Sierra Leone]
-- [Somalia]
+- [Saint Helena, Ascension and Tristan da Cunha]()
+- [São Tomé and Príncipe]()
+- [Senegal]()
+- [Seychelles]()
+- [Sierra Leone]()
+- [Somalia]()
 - [South Africa](zaf/zaf.md)
-- [South Sudan]
-- [Sudan]
+- [South Sudan]()
+- [Sudan]()
 
 ## T
-- [Tanzania]
-- [Togo]
-- [Tunisia]
+- [Tanzania]()
+- [Togo]()
+- [Tunisia]()
 
 ## U
-- [Uganda]
+- [Uganda]()
 
 ## Z
-- [Zambia]
-- [Zimbabwe]
+- [Zambia]()
+- [Zimbabwe]()
