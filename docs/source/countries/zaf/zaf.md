@@ -17,6 +17,9 @@
 - [South Africa Data Portal](https://southafrica.opendataforafrica.org/)
 - [Zindi](https://zindi.africa/)
 
+## Databases
+- [Zamani Project](https://zamaniproject.org/)
+
 ## Higher Education
 - [North-West University](http://www.nwu.ac.za/)
 - [Rhodes University](http://www.ru.ac.za/)

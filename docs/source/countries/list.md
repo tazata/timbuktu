@@ -21,6 +21,7 @@
 
 ## D
 - [Democratic Republic of the Congo](cod/cod.md)
+- [Democratic Republic of São Tomé and Príncipe](stp/stp.md)
 - [Djibouti](dji/dji.md)
 
 ## E
@@ -31,62 +32,64 @@
 - [Ethiopia](eth/eth.md)
 
 ## G
-- [Gabon]()
-- [Gambia]()
-- [Ghana]()
-- [Guinea]()
-- [Guinea-Bissau]()
+- [Gabon](gab/gab.md)
+- [Gambia](gmb/gmb.md)
+- [Ghana](gha/gha.md)
+- [Guinea](gin/gin.md)
+- [Guinea-Bissau](gnb/gnb.md)
 
 ## I
-- [Ivory Coast]()
+- [Ivory Coast](civ/civ.md)
 
 ## K
-- [Kenya]()
+- [Kenya](ken/ken.md)
 
 ## L
-- [Lesotho]()
-- [Liberia]()
-- [Libya]()
+- [Lesotho](lso/lso.md)
+- [Liberia](lbr/lbr.md)
+- [Libya](lby/lby.md)
 
 ## M
-- [Madagascar]()
-- [Malawi]()
-- [Mali]()
-- [Mauritania]()
-- [Mauritius]()
-- [Mayotte]()
-- [Morocco]()
-- [Mozambique]()
+- [Madagascar](mdg/mdg.md)
+- [Malawi](mwi/mwi.md)
+- [Mali](mli/mli.md)
+- [Mauritania](mrt/mrt.md)
+- [Mauritius](mus/mus.md)
+- [Mayotte](myt/myt.md)
+- [Morocco](mar/mar.md)
+- [Mozambique](moz/moz.md)
 
 ## N
-- [Namibia]()
-- [Niger]()
-- [Nigeria]()
+- [Namibia](nam/nam.md)
+- [Niger](ner/ner.md)
+- [Nigeria](nga/nga.md)
 
 ## R
-- [Republic of the Congo]()
-- [Réunion]()
-- [Rwanda]()
+- [Republic of the Congo](cog/cog.md)
+- [Rwanda](rwa/rwa.md)
 
 ## S
-- [Saint Helena, Ascension and Tristan da Cunha]()
-- [São Tomé and Príncipe]()
-- [Senegal]()
-- [Seychelles]()
-- [Sierra Leone]()
-- [Somalia]()
+- [São Tomé and Príncipe](stp/stp.md)
+- [Senegal](sen/sen.md)
+- [Seychelles](syc/syc.md)
+- [Sierra Leone](sle/sle.md)
+- [Somalia](som/som.md)
 - [South Africa](zaf/zaf.md)
-- [South Sudan]()
-- [Sudan]()
+- [South Sudan](ssd/ssd.md)
+- [Sudan](sdn/sdn.md)
 
 ## T
-- [Tanzania]()
-- [Togo]()
-- [Tunisia]()
+- [Tanzania](tza/tza.md)
+- [Togo](tgo/tgo.md)
+- [Tunisia](tun/tun.md)
 
 ## U
-- [Uganda]()
+- [Uganda](uga/uga.md)
+- [United Republic of Tanzania](tza/tza.md)
+
+## W
+- [Western Sahara](esh/esh.md)
 
 ## Z
-- [Zambia]()
-- [Zimbabwe]()
+- [Zambia](zmb/zmb.md)
+- [Zimbabwe](zwe/zwe.md)
