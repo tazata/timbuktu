@@ -37,3 +37,6 @@
 ## Operations Research
 - [Operations Research Society of South Africa (ORSSA)](http://www.orssa.org.za/)
 - [ORiON Journal](https://orion.journals.ac.za/pub)
+
+## Physics
+- [International Union of Pure and Applied Physics (IUPAP)](https://iupap.org/)
