@@ -5,6 +5,15 @@ STEM in Africa 🌍
 
 A Compendium, Encyclopaedia, Guide, Index, or whatever you would like to call it for Science, Technology, Engineering, and Mathematics (STEM) in Africa 📔
 
+## Project Status
+As of November 2022 this project has the following status:
+
+- Actively maintained ⬅️
+- Minimally maintained
+- Seeking co-maintainer(s) ⬅️
+- Seeking new maintainer
+- Unsupported or Abandoned
+
 ## Project setup 🏗️
 
 To get the project running on your local machine, follow the following steps:
